@@ -1,0 +1,14 @@
+[
+    {
+        "keyword_data_path":"../../../../../RLRepository/RL_Code_Repo/KWS_Codes_Local/speech_datasets/goertek/keyword",
+        "filler_data_path":"../../../../../RLRepository/RL_Code_Repo/KWS_Codes_Local/speech_datasets/goertek/filler",
+        "noise_data_path":"../../../../../RLRepository/RL_Code_Repo/KWS_Codes_Local/speech_datasets/goertek/noise",
+        "Training_MetaData":"../TrainingMetaData/",
+        "test_data_path":"",
+        "validation_path":"",
+        "outer_epochs":1000,
+        "inner_epochs":50,
+        "learning_rate":"0.0001",
+        "weight_save_path":"./google_kw_weights/"
+    }
+]
